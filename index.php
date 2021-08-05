@@ -16,7 +16,7 @@
     <link href="css/starter-template.css" rel="stylesheet">
 
     <!-- FONTAWESOME -->
-    <script src="https://kit.fontawesome.com/77f3dd62a7.js" crossorigin="anonymous"></script>
+    <script src="js/fontawesome.js" crossorigin="anonymous"></script>
   </head>
 
   <body cz-shortcut-listen="true">
